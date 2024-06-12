@@ -1,0 +1,8 @@
+fastapi==0.111.0
+typing
+sqlalchemy==1.4.46
+asyncio
+pydantic==2.7.2
+pymysql
+cryptography
+uvicorn
