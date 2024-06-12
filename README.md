@@ -25,7 +25,11 @@ In this MR I created modules:
 
 ## 🏃‍♂️ How to run and Results
 
-We need to open the ;
+You need to open Docker on your PC and the [https://github.com/Dimitro2021/APZ_4](url) to copy the project. Then navigate yourself to APZ_4 directory and execute in terminal
+- `docker compose up --build`
+![image](https://github.com/Dimitro2021/APZ_4/assets/91617001/f92b3a6c-f168-4d56-bfd3-b1b0f58f1899)
+
+
 
 Describe the specific results or outcomes of the application's execution.
 Provide any relevant screenshots, logs, or data to illustrate the results.
